@@ -4,8 +4,8 @@
 
 export default function() {
     return [
-        {title: "Bla 1"},
-        {title: "bla 2"},
-        {title: "bla 3"},
+        {title: "JavaScript", pages: 100},
+        {title: "Java", pages: 80},
+        {title: "War and Peace", pages: 79}
     ]
 }
